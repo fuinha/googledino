@@ -1,6 +1,6 @@
 # googledino
 
-![IAMDinosaur](https://raw.githubusercontent.com/fuinha/google/dino/master/assets/top_score.png)
+![googledino](https://raw.githubusercontent.com/fuinha/google/dino/master/assets/top_score.png)
 
 A simple artificial intelligence to teach Google Chrome's offline dinosaur to
 jump cactus, using Neural Networks and a simple Genetic Algorithm.
@@ -105,9 +105,9 @@ setInterval(function (){Runner.instance_.tRex.xPos = 21}, 2000)
 
 ## Development guidelines
 
-Please, follow the Node.js style guide from [Felix](https://github.com/felixge/node-style-guide).
+Please, follow the Node.js style guide from [Felix].
 It is not complex, and has a great simple pattern for things.
 
 ## Credits
 
-- [Ivan Seidel](https://github.com/ivanseidel)
+- [Ivan Seidel] thanks for code completation
